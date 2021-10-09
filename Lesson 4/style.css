@@ -1,0 +1,42 @@
+.main{
+    background: red;
+    height: 200px; 
+    text-align:center;
+    padding: 80px;
+    box-sizing: border-box;
+}
+.left{
+    background-color: seagreen;
+    height: 200px;
+    width: 50%;
+    float: left;
+    text-align:center;
+}
+.right{   
+    background-color: yellow;
+    height: 200px;
+    width: 50%;
+    float: left;
+    text-align:center;
+}
+.L{
+    background-color: orangered;
+    height: 200px;
+    width: 33.3%;
+    float: left;
+    text-align:center;
+}
+.centr{
+    background-color: rgb(25, 0, 255);
+    height: 200px;
+    width: 33.3%;
+    float: left;
+    text-align:center;
+}
+.R{
+    background-color: rgb(140, 0, 255);
+    height: 200px;
+    width: 33.3%;
+    float: left;
+    text-align:center;
+}
